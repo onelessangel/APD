@@ -11,7 +11,7 @@ from a set of files and counting unique values for each exponent.
 
 A Java program for a Black Friday order manager, using parallelization mechanisms.
 
-The program uses multiple entities to handle 2 level threads for parallel processing the orders
+The program uses multiple entities to handle 2 level threads for processing in parallel the orders
 and the products.
 
 ## MPI
